@@ -22,3 +22,6 @@ These are all the end chapter exercise questions answers
 
 7. What is the type of algorithm to segmend customer into groups?
 - If you don't know how to define the groups, then you can use a clustering algorithm (unsupervised learning) to segment your customers into clusters of similar customers. However, if you know what groups you would like to have, then you can feed many examples of each group to a classification algorithm (supervised learning), and it will classify all your customers into these groups.
+
+8. In which category spam detection fall?
+- Spam detection is a typical supervised learning problem: the algorithm is fed many emails along with their labels (spam or not spam).
