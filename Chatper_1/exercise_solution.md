@@ -28,3 +28,6 @@ These are all the end chapter exercise questions answers
 
 9. What is online learning system?
 - An online learning system can learn incrementally, as opposed to a batch learning system. This makes it capable of adapting rapidly to both changing data and autonomous systems, and of training on very large quantities of data.
+
+10. what is out of core learning?
+- Out-of-core algorithms can handle vast quantities of data that cannot fit in a computer's main memory. An out-of-core learning algorithm chops the data into mini-batches and uses online learning techniques to learn from these mini-batches.
