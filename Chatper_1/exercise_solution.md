@@ -31,3 +31,6 @@ These are all the end chapter exercise questions answers
 
 10. what is out of core learning?
 - Out-of-core algorithms can handle vast quantities of data that cannot fit in a computer's main memory. An out-of-core learning algorithm chops the data into mini-batches and uses online learning techniques to learn from these mini-batches.
+
+11. What type of algorithm rely on similarity to make prediction?
+- An instance-based learning system learns the training data by heart; then, when given a new instance, it uses a similarity measure to find the most similar learned instances and uses them to make predictions.
