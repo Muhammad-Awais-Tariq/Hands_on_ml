@@ -13,3 +13,6 @@ These are all the end chapter exercise questions answers
 
 4. Two common tasks of supervised learning?
 - The two most common supervised tasks are regression and classification.
+
+5. four common tasks of unsupervised learning?
+- Common unsupervised tasks include clustering, visualization, dimensionality reduction, and association rule learning.
