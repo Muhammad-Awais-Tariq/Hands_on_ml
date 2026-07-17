@@ -52,3 +52,6 @@ These are all the end chapter exercise questions answers
 
 17. What is validation set?
 - A validation set is used to compare models. It makes it possible to select the best model and tune the hyperparameters.
+
+18. What is train dev set ?
+- e train-dev set is used when there is a risk of mismatch between the training data and the data used in the validation and test datasets (which should always be as close as possible to the data used once the model is in production). The train-dev set is a part of the training set that's held out (the model is not trained on it). The model is trained on the rest of the training set, and evaluated on both the train-dev set and the validation set. If the model performs well on the training set but not on the train-dev set, then the model is likely overfitting the training set. If it performs well on both the training set and the train-dev set, but not on the validation set, then there is probably a significant data mismatch between the training data and the validation + test data, and you should try to improve the training data to make it look more like the validation + test data.
