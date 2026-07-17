@@ -25,3 +25,6 @@ These are all the end chapter exercise questions answers
 
 8. In which category spam detection fall?
 - Spam detection is a typical supervised learning problem: the algorithm is fed many emails along with their labels (spam or not spam).
+
+9. What is online learning system?
+- An online learning system can learn incrementally, as opposed to a batch learning system. This makes it capable of adapting rapidly to both changing data and autonomous systems, and of training on very large quantities of data.
