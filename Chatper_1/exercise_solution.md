@@ -49,3 +49,6 @@ These are all the end chapter exercise questions answers
 
 16. What is test set ?
 - A test set is used to estimate the generalization error that a model will make on new instances, before the model is launched in production.
+
+17. What is validation set?
+- A validation set is used to compare models. It makes it possible to select the best model and tune the hyperparameters.
