@@ -16,3 +16,6 @@ These are all the end chapter exercise questions answers
 
 5. four common tasks of unsupervised learning?
 - Common unsupervised tasks include clustering, visualization, dimensionality reduction, and association rule learning.
+
+6. What is the type of algorithm to allow robot to walk?
+- Reinforcement Learning is likely to perform best if we want a robot to learn to walk in various unknown terrains, since this is typically the type of problem that Reinforcement Learning tackles. It might be possible to express the problem as a supervised or semi-supervised learning problem, but it would be less natural.
