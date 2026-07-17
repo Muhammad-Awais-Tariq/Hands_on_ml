@@ -34,3 +34,6 @@ These are all the end chapter exercise questions answers
 
 11. What type of algorithm rely on similarity to make prediction?
 - An instance-based learning system learns the training data by heart; then, when given a new instance, it uses a similarity measure to find the most similar learned instances and uses them to make predictions.
+
+12. What is the difference between model parameter and model hyperparameter?
+- A model has one or more model parameters that determine what it will predict given a new instance (e.g., the slope of a linear model). A learning algorithm tries to find optimal values for these parameters such that the model generalizes well to new instances. A hyperparameter is a parameter of the learning algorithm itself, not of the model (e.g., the amount of regularization to apply).
