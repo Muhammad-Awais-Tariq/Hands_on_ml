@@ -46,3 +46,6 @@ These are all the end chapter exercise questions answers
 
 15. If model perform well on training data but generalizes poorly whats the cause?
 - If a model performs great on the training data but generalizes poorly to new instances, the model is likely overfitting the training data (or we got extremely lucky on the training data). Possible solutions to overfitting are getting more data, simplifying the model (selecting a simpler algorithm, reducing the number of parameters or features used, or regularizing the model), or reducing the noise in the training data.
+
+16. What is test set ?
+- A test set is used to estimate the generalization error that a model will make on new instances, before the model is launched in production.
