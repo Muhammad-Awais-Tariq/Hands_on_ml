@@ -10,3 +10,6 @@ These are all the end chapter exercise questions answers
 
 3. What is labeled training set?
 - A labeled training set is a training set that contains the desired solution (a.k.a. a label) for each instance.
+
+4. Two common tasks of supervised learning?
+- The two most common supervised tasks are regression and classification.
